@@ -1,0 +1,7 @@
+{
+	"name": "kahwee/sg-japan-surprise",
+	"require": {
+		"php": ">=5.3.0",
+		"facebook/php-sdk": "dev-master"
+	}
+}

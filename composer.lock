@@ -1,0 +1,18 @@
+{
+    "hash": "52f4e88db006dd2e858a72f742a7377b",
+    "packages": [
+        {
+            "package": "facebook/php-sdk",
+            "version": "dev-master",
+            "source-reference": "aba1cc47293323675feeeb1d8df193e216f92144"
+        }
+    ],
+    "packages-dev": null,
+    "aliases": [
+
+    ],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "facebook/php-sdk": 20
+    }
+}
